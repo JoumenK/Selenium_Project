@@ -26,6 +26,6 @@ public class ClasseCommune {
 
     @AfterMethod
     public void monAfter(){
-        //driver.quit();
+        driver.quit();
     }
 }
